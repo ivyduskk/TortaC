@@ -22,7 +22,7 @@ namespace WinFormsApp4
             {"NIEVE", 15}
         };
 
-        //hi
+        
 
         public Form1()
         {
